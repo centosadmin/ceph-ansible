@@ -1,0 +1,19 @@
+[mons]
+ingress-1.s000.slurm.io monitor_address=172.21.0.5
+node-1.s000.slurm.io monitor_address=172.21.0.6
+node-2.s000.slurm.io monitor_address=172.21.0.7
+
+[osds]
+ingress-1.s000.slurm.io
+node-1.s000.slurm.io
+node-2.s000.slurm.io
+
+[mgrs]
+ingress-1.s000.slurm.io
+node-1.s000.slurm.io
+node-2.s000.slurm.io
+
+[mdss]
+ingress-1.s000.slurm.io
+node-1.s000.slurm.io
+node-2.s000.slurm.io
